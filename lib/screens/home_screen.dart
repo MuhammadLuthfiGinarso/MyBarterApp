@@ -71,7 +71,7 @@ class HomeScreen extends StatelessWidget {
                       color: Colors.grey[300],
                       borderRadius: BorderRadius.circular(10),
                       image: DecorationImage(
-                        image: AssetImage('lib/assets/explore_product.png'),
+                        image: AssetImage('lib/assets/pc.jpg'),
                         fit: BoxFit.cover,
                       ),
                     ),
@@ -128,10 +128,10 @@ class HomeScreen extends StatelessWidget {
               shrinkWrap: true,
               physics: NeverScrollableScrollPhysics(),
               children: [
-                _buildExclusiveItem(context, "WhiteLam", "ArtMood", 'lib/assets/whitelam.png'),
-                _buildExclusiveItem(context, "Floor lamp", "Design House", 'lib/assets/Kismas Glass Block Lamp.jpeg'),
-                _buildExclusiveItem(context, "Kismas", "ArtMood", 'lib/assets/Kismas Glass Block Lamp.jpeg'),
-                _buildExclusiveItem(context, "Blacky", "ArtMood", 'lib/assets/blacky.png'),
+                _buildExclusiveItem(context, "WhiteLam", "ArtMood", 'lib/assets/white lam.jpeg'),
+                _buildExclusiveItem(context, "Floor lamp", "Design House", 'lib/assets/lamp.jpeg'),
+                _buildExclusiveItem(context, "Kismas", "ArtMood", 'lib/assets/kismas.jpg'),
+                _buildExclusiveItem(context, "Blacky", "ArtMood", 'lib/assets/lamp restaurant.jpeg'),
               ],
             ),
           ],

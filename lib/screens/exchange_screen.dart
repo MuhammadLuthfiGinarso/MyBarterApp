@@ -20,7 +20,7 @@ class ExchangeScreen extends StatelessWidget {
                   child: Column(
                     children: [
                       Image.asset(
-                        'lib/assets/Kismas Glass Block Lamp.jpeg',
+                        'lib/assets/keyboard.jpg',
                         fit: BoxFit.cover, // Mengisi area dengan proporsi yang benar
                         width: double.infinity, // Lebar penuh
                         height: 200, // Atur tinggi sesuai kebutuhan
@@ -45,7 +45,7 @@ class ExchangeScreen extends StatelessWidget {
                   child: Column(
                     children: [
                       Image.asset(
-                        'lib/assets/Kismas Glass Block Lamp.jpeg',
+                        'lib/assets/kismas.jpg',
                         fit: BoxFit.cover, // Mengisi area dengan proporsi yang benar
                         width: double.infinity, // Lebar penuh
                         height: 200, // Atur tinggi sesuai kebutuhan

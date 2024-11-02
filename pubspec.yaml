@@ -23,4 +23,10 @@ flutter:
   uses-material-design: true
 
   assets:
-    - lib/assets/Kismas Glass Block Lamp.jpeg
+    - lib/assets/white lam.jpeg
+    - lib/assets/lamp.jpeg
+    - lib/assets/kismas.jpg
+    - lib/assets/lamp restaurant.jpeg
+    - lib/assets/pc.jpg
+    - lib/assets/kismas2.jpg
+    - lib/assets/keyboard.jpg

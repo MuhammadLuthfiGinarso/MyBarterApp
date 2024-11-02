@@ -1,6 +1,8 @@
+
 import 'package:flutter/material.dart';
 import 'package:device_preview/device_preview.dart'; // Impor device_preview
 import 'screens/home_screen.dart';
+
 
 void main() {
   runApp(
@@ -15,6 +17,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: 'My Barter App',
       useInheritedMediaQuery: true, // Untuk mengikuti ukuran layar perangkat
       locale: DevicePreview.locale(context), // Untuk pratinjau lokal perangkat
       builder: DevicePreview.appBuilder, // Untuk menerapkan pratinjau perangkat

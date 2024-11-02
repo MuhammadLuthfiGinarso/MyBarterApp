@@ -6,7 +6,6 @@ class ProductDetailScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        
         leading: IconButton(
           icon: Icon(Icons.arrow_back),
           onPressed: () {
@@ -41,7 +40,7 @@ class ProductDetailScreen extends StatelessWidget {
                     bottomRight: Radius.circular(12.0),
                   ),
                   child: Image.asset(
-                    'lib/assets/Kismas Glass Block Lamp.jpeg', // Ensure the asset path is correct
+                    'lib/assets/kismas2.jpg', // Ensure the asset path is correct
                     width: double.infinity,
                     fit: BoxFit.cover,
                   ),
@@ -156,7 +155,7 @@ class ProductDetailScreen extends StatelessWidget {
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(10.0),
                         ),
-                        backgroundColor: Colors.white, // Set color to white
+                        backgroundColor: Colors.pinkAccent, // Set color to pinkAccent
                       ),
                       onPressed: () {
                         Navigator.push(
@@ -166,7 +165,7 @@ class ProductDetailScreen extends StatelessWidget {
                       },
                       child: Text(
                         "Exchange",
-                        style: TextStyle(fontSize: 18.0, color: Colors.black), // Text color set to black for contrast
+                        style: TextStyle(fontSize: 18.0, color: Colors.white), // Text color set to white for contrast
                       ),
                     ),
                   ),
