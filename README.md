@@ -1,24 +1,8 @@
-<<<<<<< HEAD
+
 # my_barter_app
-=======
-<<<<<<< HEAD
-# my_barter_app
-=======
-# my_barter_app
+Name : My Barter App
 
-A new Flutter project.
+dribble : https://dribbble.com/shots/22990933-Barter-App-Design-Concept
 
-## Getting Started
+https://github.com/MuhammadLuthfiGinarso/MyBarterApp/blob/main/382282054-b45aa47d-0d3e-4c2a-84aa-033c9ca4c62d.mov
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 7fda8a9 (upload)
->>>>>>> 24e5d7f (initial commit)
