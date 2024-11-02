@@ -129,7 +129,7 @@ class HomeScreen extends StatelessWidget {
               physics: NeverScrollableScrollPhysics(),
               children: [
                 _buildExclusiveItem(context, "WhiteLam", "ArtMood", 'lib/assets/whitelam.png'),
-                _buildExclusiveItem(context, "Floor lamp", "Design House", 'lib/assets/floorlamp.png'),
+                _buildExclusiveItem(context, "Floor lamp", "Design House", 'lib/assets/Kismas Glass Block Lamp.jpeg'),
                 _buildExclusiveItem(context, "Kismas", "ArtMood", 'lib/assets/Kismas Glass Block Lamp.jpeg'),
                 _buildExclusiveItem(context, "Blacky", "ArtMood", 'lib/assets/blacky.png'),
               ],
